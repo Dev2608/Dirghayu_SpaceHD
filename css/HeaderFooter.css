@@ -43,6 +43,11 @@ form.heform{
     opacity: 1;
     padding-left: 30px;
 }
+::-moz-placeholder{
+    color:rgb(16, 233, 222);
+    opacity: 1;
+    padding-left: 30px;
+}
 button#searchbtn{
     position: relative;
     right: 35px;
