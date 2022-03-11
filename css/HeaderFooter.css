@@ -40,6 +40,8 @@ form.heform{
 }
 ::-ms-input-placeholder{
     color:rgb(16, 233, 222);
+    opacity: 1;
+    padding-left: 30px;
 }
 button#searchbtn{
     position: relative;
