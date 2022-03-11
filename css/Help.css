@@ -1,0 +1,178 @@
+div#navimg{
+    width: 97.42vw;
+    height: 1000px;
+    position: relative;
+}
+img#mapimg{
+    position: absolute;
+     width: 720px;
+    height: 567px; 
+    left: 20.15vw;
+}
+div#company{
+    width: 97.42vw;
+    position: relative;
+    height: 200px;
+    z-index: -1;
+}
+p#companypara{
+    position: absolute;
+    color: rgb(16, 233, 222);
+    padding: 0px;
+    margin: 0px;
+    left: 23.43vw;
+    font-size: 62px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    animation-name: slide;
+    animation-duration: 2.5s;
+}
+@keyframes slide{
+    0%{
+        transform: translateY(90px);
+       }
+       100%{
+           transform: translateY(0px);
+       }
+}
+p#companypara1{
+    position: absolute;
+    color: rgb(16, 233, 222);
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    top: 595px;
+}
+@media only screen and (min-width: 2001px){
+    p#companypara{
+        left: 38.43vw;
+    }
+    img#mapimg{
+        left: 37.15vw;
+    }
+    p#companypara1{
+        left: 17.17vw;
+        font-size: 23px;
+    }
+}
+@media only screen and (min-width: 1601px) and (max-width:2000px){
+    p#companypara{
+        left: 32.43vw;
+    }
+    img#mapimg{
+        left: 30.15vw;
+    }
+    p#companypara1{
+        left: 15.17vw;
+        font-size: 23px;
+    }
+    div#navimg{
+        height: 1100px;
+    }
+}
+@media only screen and (min-width: 1401px) and (max-width:1600px){
+    p#companypara{
+        left: 32.43vw;
+    }
+    img#mapimg{
+        left: 30.15vw;
+    }
+    p#companypara1{
+        left: 13.17vw;
+    }
+}
+@media only screen and (min-width: 1281px) and (max-width:1400px){
+    p#companypara{
+        left: 25.43vw;
+    }
+    img#mapimg{
+        left: 21.15vw;
+    }
+    p#companypara1{
+        left: 8.17vw;
+    }
+}
+@media only screen and (min-width: 1001px) and (max-width:1280px){
+    p#companypara{
+        left: 22.43vw;
+    }
+    img#mapimg{
+        left: 18.15vw;
+    }
+    p#companypara1{
+        left: 6.17vw;
+        font-size: 17px;
+    }
+    div#navimg{
+        height: 1065px;
+    }
+}
+@media only screen and (min-width: 750px) and (max-width:1000px){
+    header{
+        height: 233px;
+    }
+    p#companypara{
+        left: 26.43vw;
+        font-size: 38px;
+    }
+    img#mapimg{
+        left: 2.15vw;
+        top: 160px;
+    }
+    p#companypara1{
+        top: 747px;
+        left: 5.17vw;
+        font-size: 16px;
+    }
+    div#navimg{
+        height: 1182px;
+    }
+}
+@media only screen and (min-width:601px) and (max-width:749px){
+    header{
+        height: 233px;
+    }
+    p#companypara{
+        left: 17.43vw;
+        font-size: 38px;
+    }
+    img#mapimg{
+        display: none;
+    }
+    p#companypara1{
+        left: 5.17vw;
+        font-size: 16px;
+        top: 14px;
+    }
+    div#company{
+        height: 150px;
+    }
+    div#navimg{
+        height: 500px;
+    }
+}
+@media only screen and (max-width:600px){
+    header{
+        height: 233px;
+    }
+    p#companypara{
+        left: 24.43vw;
+        font-size: 23px;
+    }
+    img#mapimg{
+        display: none;
+    }
+    p#companypara1{
+        left: 1.17vw;
+        font-size: 13px;
+        top: 14px;
+    }
+    div#company{
+        height: 130px;
+    }
+    div#navimg{
+        height: 685px;
+    }
+}

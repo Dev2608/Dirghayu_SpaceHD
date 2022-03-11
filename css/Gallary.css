@@ -1,0 +1,669 @@
+div#floatimgcontainer{
+    width: 97.42vw;
+    height: 779px;
+    margin: auto;
+    position: relative;
+    bottom: 100px;
+    z-index: -1;
+}
+img#company1{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#company2{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#company3{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#company4{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#company5{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#company6{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#company7{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#company8{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#company9{
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+div#companyname{
+    height: 100px;
+}
+p#spacehd{
+    color: rgb(16, 233, 222);
+    font-size: 90px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    left: 31.71vw;
+}
+.abc{
+    animation-name: slidecompany;
+    animation-duration: 2.5s;
+}
+@keyframes slidecompany{
+    0%{
+        transform: translateY(60px);
+    }
+    100%{
+        transform: translateY(0px);
+    }
+}
+div#vision{
+    height: 500px;
+    position: relative;
+}
+p#visionpara{
+    position: absolute;
+    color: rgb(16, 233, 222);
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    left: 39.06vw;
+    top: 240px;
+}
+p#visioncontent1{
+    position:absolute;
+    color: rgb(16, 233, 222);
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    top: 368px;
+    left: 21.01vw;
+}
+p#visioncontent2{
+    position:absolute;
+    color: rgb(16, 233, 222);
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    top: 455px;
+    left: 2.65vw;
+}
+div#future{
+    height: 785px;
+    position: relative;
+    margin-top: 100px;
+}
+img#futureimg{
+    position: absolute;
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.5;
+}
+p#futurepara{
+    position:absolute;
+    color: rgb(16, 233, 222);
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    left: 22.57vw;
+    top: 322px;
+}
+p#futurepara1{
+    position:absolute;
+    color: rgb(16, 233, 222);
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    top: 484px;
+    left: 2.34vw;
+}
+div#goal{
+    height: 785px;
+    position: relative;
+    margin-top: 100px;
+}
+img#goalimg{
+    position: absolute;
+    width: 97.42vw;
+    height: 779px;
+    opacity: 0.5;
+}
+p#goalpara{
+    position:absolute;
+    color: rgb(16, 233, 222);
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    left: 22.57vw;
+    top: 322px;
+}
+p#goalpara1{
+    position:absolute;
+    color: rgb(16, 233, 222);
+    font-size: 26px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    top: 484px;
+    left: 2.34vw;
+}
+.readmore{
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    font-size: 20px;
+    position: absolute;
+}
+.button{
+    position: absolute;
+    height: 37px;
+    color: rgb(205 245 245);
+    font-size: 19px;
+    background: none;
+    border: 2px rgb(16, 233, 222) groove;
+    padding: 0px;
+    width: 9.68vw;
+    margin: 0px;
+    transition-duration: 0.5s;
+}
+.button:hover{
+    box-shadow: 0px 0px 7px 5px rgb(77 241 200 / 50%) inset;
+    font-size: 22px;
+    width: 10.93vw;
+    height: 45px;
+}
+p#readmore1{
+    bottom: 120px;
+    left: 23.59vw;
+}
+p#readmore2{
+    bottom: 28px;
+    left: 31.25vw;
+}
+button#watchmore{
+    bottom: 65px;
+    left: 45.39vw;
+}
+div#companyvideo{
+    height: 702px;
+    width: 97.42vw;
+}
+video#companyextravideo{
+    height: 702px;
+    width: 97.42vw;
+}
+@media only screen and (min-width: 1281px) and (max-width: 1400px){
+    p#spacehd{
+        left: 33.71vw;
+    }
+    p#visionpara{
+        left: 44.06vw;
+    }
+    p#visioncontent1{
+        left: 23.01vw;
+    }
+    p#visioncontent2{
+        left: 5.65vw;
+    }
+    img#futureimg{
+        width: 98.82vw;
+    }
+    p#futurepara1{
+        left: 4.34vw;
+    }
+    img#goalimg{
+        width: 98.92vw;
+    }
+    p#goalpara{
+        left: 43.57vw;
+    }
+    p#goalpara1{
+        left: 6.34vw;
+    }
+    video#companyextravideo{
+        width: 98.72vw;
+    }
+}
+@media only screen and (min-width: 1401px) and (max-width: 1600px){
+    p#spacehd{
+        left: 35.71vw;
+    }
+    p#visionpara{
+        left: 42.06vw;
+    }
+    p#visioncontent1{
+        left: 28.01vw;
+    }
+    p#visioncontent2{
+        left: 12.65vw;
+    }
+    img#futureimg{
+        width: 98.7vw;
+    }
+    p#futurepara{
+        left: 23.57vw;
+    }
+    img#goalimg{
+        width: 98.7vw;
+    }
+    p#goalpara{
+        left: 43.57vw;
+    }
+    p#goalpara1{
+        left: 3.34vw;
+    }
+    button#watchmore{
+        left: 42.39vw;
+    }
+    video#companyextravideo{
+        width: 98.7vw;
+    }
+}
+@media only screen and (min-width: 1601px) and (max-width: 2000px){
+    p#spacehd{
+        left: 38.71vw;
+    }
+    img#futureimg{
+        width: 98.9vw;
+    }
+    p#futurepara{
+        left: 26.57vw;
+    }
+    img#goalimg{
+        width: 99.2vw;
+    }
+    p#goalpara{
+        left: 43.57vw;
+    }
+    p#goalpara1{
+        left: 9.34vw;
+    }
+    p#readmore1{
+        left: 32.59vw;
+    }
+    button#watchmore{
+        left: 46.39vw;
+    }
+    p#readmore2{
+        left: 37.25vw;
+    }
+    video#companyextravideo{
+        height: 930px;
+    width: 98.42vw;
+    }
+    div#companyvideo{
+        height: 900px;
+    }
+    p#visioncontent2{
+        left: 20.65vw;
+    }
+    p#visioncontent1{
+        left: 31.01vw;
+    }
+    p#visionpara{
+        left: 46.06vw;
+    }
+}
+@media only screen and (min-width: 2001px){
+    p#spacehd{
+        left: 40.71vw;
+    }
+    p#visionpara{
+        left: 47.06vw;
+    }
+    p#visioncontent1{
+        left: 35.01vw;
+        font-size: 24px;
+    }
+    p#visioncontent2{
+        left: 22.65vw;
+        font-size: 24px;
+    }
+    img#futureimg{
+        width: 99.3vw;
+        height: 950px;
+    }
+    p#futurepara{
+        left: 36.57vw;
+    }
+    img#goalimg{
+        width: 99.3vw;
+        height: 950px;
+    }
+    div#future{
+        height: 880px;
+    }
+    div#goal{
+        height: 960px;
+    }
+    p#goalpara{
+        left: 45.57vw;
+    }
+    p#goalpara1{
+        left: 20.34vw;
+    }
+    p#readmore1{
+        left: 34.59vw;
+    }
+    button#watchmore{
+        left: 46.39vw;
+    }
+    p#readmore2{
+        left: 39.25vw;
+    }
+    video#companyextravideo{
+        height: 1075px;
+    width: 98.42vw;
+    }
+    div#companyvideo{
+        height: 1075px;
+    }
+}
+@media only screen and (min-width: 1001px) and (max-width: 1280px){
+    p#spacehd{
+        left: 35.71vw;
+        font-size: 80px;
+    }
+    p#visionpara{
+        font-size: 48px;
+        left: 44.06vw;
+    }
+    p#visioncontent1{
+        left: 25.01vw;
+    }
+    p#visioncontent2{
+        left: 16.65vw;
+    }
+    img#futureimg{
+        width: 98.82vw;
+    }
+    p#futurepara{
+        left: 17.57vw;
+        font-size: 48px;
+    }
+    p#futurepara1{
+        left: 4.34vw;
+    }
+    img#goalimg{
+        width: 98.92vw;
+    }
+    p#goalpara{
+        font-size: 48px;
+        left: 43.57vw;
+    }
+    p#goalpara1{
+        left: 6.34vw;
+        font-size: 24px;
+    }
+    p#readmore1{
+        left: 21.59vw;
+    }
+    button#watchmore{
+        left: 46.39vw;
+    }
+    p#readmore2{
+        left: 29.25vw;
+    }
+    video#companyextravideo{
+        width: 98.72vw;
+    }
+}
+@media only screen and (min-width: 601px) and (max-width: 1000px){
+    header{
+    height: 233px;
+    }
+    div#floatimgcontainer{
+        height: 650px;
+    }
+    img#company1{
+        height: 640px;
+    }
+    img#company2{
+        height: 640px;
+    }
+    img#company3{
+        height: 640px;
+    }
+    img#company4{
+        height: 640px;
+    }
+    img#company5{
+        height: 640px;
+    }
+    img#company6{
+        height: 640px;
+    }
+    img#company7{
+        height: 640px;
+    }
+    img#company8{
+        height: 640px;
+    }
+    img#company9{
+        height: 640px;
+    }
+    p#spacehd{
+        font-size: 65px;
+        left: 31.41vw;
+    }
+    p#visionpara{
+        left: 41.06vw;
+    }
+    p#visioncontent1{
+        left: 19.01vw;
+    }
+    p#visioncontent2{
+        left: 2.65vw;
+    }
+    p#futurepara{
+        font-size: 33px;
+        left: 19.57vw;
+    }
+    p#goalpara{
+        left: 39.57vw;
+    }
+    p#readmore1 {
+        bottom: 121px;
+        left: 16.59vw;
+    }
+    button#watchmore {
+        bottom: 65px;
+        left: 45.39vw;
+    }
+    p#readmore2 {
+        bottom: 15px;
+        left: 24.25vw;
+    }
+    .button{
+        width: 12.68vw;
+        font-size: 17px;
+    }
+    .button:hover{
+        width: 13.68vw;
+        font-size: 18px;
+    }
+    div#companyvideo{
+        height: 495px;
+    }
+    video#companyextravideo{
+        height: 550px;
+    }
+}
+@media only screen and (max-width: 600px){
+ header{
+     height: 233px;
+ }
+ div#floatimgcontainer{
+    height: 455px;
+}
+img#company1{
+    height: 440px;
+}
+img#company2{
+    height: 440px;
+}
+img#company3{
+    height: 440px;
+}
+img#company4{
+    height: 440px;
+}
+img#company5{
+    height: 440px;
+}
+img#company6{
+    height: 440px;
+}
+img#company7{
+    height: 440px;
+}
+img#company8{
+    height: 440px;
+}
+img#company9{
+    height: 440px;
+}
+div#companyname {
+    height: 50px;
+}
+p#spacehd{
+    font-size: 30px;
+    left: 35.71vw;
+}
+p#visionpara{
+    font-size: 24px;
+    left: 40.46vw;
+}
+div#vision {
+    height: 370px;
+}
+p#visionpara{
+    font-size: 24px;
+    left: 40.06vw;
+    top: 140px;
+}
+p#visioncontent1{
+    font-size: 18px;
+    top: 215px;
+    left: 21.01vw;
+}
+p#visioncontent2{
+    font-size: 18px;
+    top: 305px;
+    left: 19.65vw;
+}
+div#future{
+    height: 670px;
+}
+img#futureimg{
+    width: 97.42vw;
+    height: 650px;
+}
+p#futurepara{
+    font-size: 20px;
+    top: 275px;
+}
+p#futurepara1{
+    top: 430px;
+    font-size: 16px;
+}
+img#goalimg{
+    height: 650px;
+    width: 97.42vw;
+}
+p#goalpara{
+    font-size: 20px;
+    left: 36.57vw;
+    top: 200px;
+}
+p#goalpara1{
+    font-size: 20px;
+    top: 255px;
+}
+    .readmore{
+        font-size: 14px;
+    }
+    p#readmore1 {
+        bottom: 245px;
+        left: 7.59vw;
+    }
+    button#watchmore {
+        bottom: 200px;
+        left: 35.39vw;
+    }
+    p#readmore2 {
+        bottom: 148px;
+        left: 8.25vw;
+    }
+    .button{
+        height: 33px;
+        width: 23.68vw;
+        font-size: 13px;
+    }
+    .button:hover{
+        height: 35px;
+        width: 25.68vw;
+        font-size: 14px;
+    }
+    div#goal {
+        height: 670px;
+        margin-top: 30px;
+    }
+    div#companyvideo {
+        height: 400px;
+        width: 97.42vw;
+    }
+    video#companyextravideo {
+        height: 440px;
+        width: 97.42vw;
+    }
+}

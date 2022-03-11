@@ -1,0 +1,1282 @@
+div#floatimgcontainer{
+    width: 97.42vw;
+    height: 550px;
+    margin: auto;
+    position: relative;
+    bottom: 100px;
+    z-index: -1;
+}
+img#hoody1{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+img#hoody2{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+img#tshirt1{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+img#tshirt2{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+img#jacket{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+img#hat1{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+img#hat2{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+img#apolloshop{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+img#net_origin{
+    width: 97.42vw;
+    height: 537px;
+    opacity: 0.8;
+    display: none;
+    margin: auto;
+    width: 60.93vw;
+}
+div#apollo{
+    height: 500px;
+    position: relative;
+}
+img#apollotop{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#apolloside{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#apollobottom{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+.button{
+    position: absolute;
+    height: 29px;
+    color: rgb(205 245 245);
+    font-size: 19px;
+    background: none;
+    border: 2px rgb(16, 233, 222) groove;
+    padding: 0px;
+    width: 8.28vw;
+    margin: 0px;
+    transition-duration: 0.5s;
+}
+.button:hover{
+    box-shadow: 0px 0px 7px 5px rgb(77 241 200 / 50%) inset;
+    font-size: 22px;
+    width: 9.76vw;
+    height: 32px;
+}
+button#apollotopbtn{
+    position: absolute;
+    left: 8.04vw;
+    top: 323px;
+}
+button#apollosidebtn{
+    position: absolute;
+    left: 22.65vw;
+    top: 323px;
+}
+button#apollobottombtn{
+    position: absolute;
+    left: 37.42vw;
+    top: 323px;
+}
+p#apolloinfo{
+    position: absolute;
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    font-size: 20px;
+    width: 39.06vw;
+    right: 1.71vw;
+    top: 60px;
+}
+.button1{
+    position: absolute;
+    height: 29px;
+    color: rgb(205 245 245);
+    font-size: 19px;
+    background: none;
+    border: 2px rgb(16, 233, 222) groove;
+    padding: 0px;
+    width: 10.15vw;
+    margin: 0px;
+    transition-duration: 0.5s;
+}
+.button1:hover{
+    box-shadow: 0px 0px 7px 5px rgb(77 241 200 / 50%) inset;
+    font-size: 22px;
+    width: 11.32vw;
+    height: 34px;
+}
+button#apollomorebtn{
+    position: absolute;
+    right: 21.87vw;
+    top: 270px;
+}
+.anchor{
+    color: rgb(16, 233, 222);
+    text-decoration: none;
+}
+p#apolloprice{
+    position: absolute;
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    background: none;
+    border: 2px rgb(16, 233, 222) groove;
+    right: 31.48vw;
+    bottom: 150px;
+    font-size: 20px;
+}
+button#apollocartbtn{
+    right: 6.71vw;
+    bottom: 150px;
+    position: absolute;
+    width: 12.5vw;
+    color: rgb(16, 233, 222);
+}
+button#apollocartbtnplus{
+position: absolute;
+right: 2.03vw;
+    bottom: 150px;
+    width: 3.67vw;
+}
+button#apollocartbtnminus{
+position: absolute;
+bottom: 150px;
+width: 3.67vw;
+right: 20.39vw;
+}
+div#net{
+    height: 500px;
+    position: relative;
+}
+img#nettop{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#netside{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#netbottom{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+button#nettopbtn{
+    position: absolute;
+    left: 8.04vw;
+    top: 323px;
+}
+button#netsidebtn{
+    position: absolute;
+    left: 22.65vw;
+    top: 323px;
+}
+button#netbottombtn{
+    position: absolute;
+    left: 37.42vw;
+    top: 323px;
+}
+p#netinfo{
+    position: absolute;
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    font-size: 20px;
+    width: 39.06vw;
+    right: 1.71vw;
+    top: 0px;
+}
+button#netmorebtn{
+    position: absolute;
+    right: 21.87vw;
+    top: 270px;
+}
+p#netprice{
+    position: absolute;
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    background: none;
+    border: 2px rgb(16, 233, 222) groove;
+    right: 31.48vw;
+    bottom: 150px;
+    font-size: 20px;
+}
+button#netcartbtn{
+    right: 6.71vw;
+    bottom: 150px;
+    position: absolute;
+    width: 12.5vw;
+    color: rgb(16, 233, 222);
+}
+button#netcartbtnplus{
+position: absolute;
+right: 2.03vw;
+    bottom: 150px;
+    width: 3.67vw;
+}
+button#netcartbtnminus{
+position: absolute;
+bottom: 150px;
+width: 3.67vw;
+right: 20.39vw;
+}
+div#tshirt{
+    height: 500px;
+    position: relative;
+}
+img#tshirtb1{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirtb2{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirt3{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirt4{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirt5{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirt6{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirt7{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirt8{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirt9{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+img#tshirt10{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+}
+button#tshirttopbtn{
+    position: absolute;
+    left: 8.04vw;
+    top: 323px;
+}
+button#tshirtbottombtn{
+    position: absolute;
+    left: 37.42vw;
+    top: 323px;
+}
+p#tshirtinfo{
+    position: absolute;
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    font-size: 20px;
+    width: 39.06vw;
+    right: 1.71vw;
+    top: 0px;
+}
+p#tshirtprice{
+    position: absolute;
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    background: none;
+    border: 2px rgb(16, 233, 222) groove;
+    right: 31.48vw;
+    bottom: 150px;
+    font-size: 20px;
+}
+button#tshirtcartbtn{
+    right: 6.71vw;
+    bottom: 150px;
+    position: absolute;
+    width: 12.5vw;
+    color: rgb(16, 233, 222);
+}
+button#tshirtcartbtnplus{
+position: absolute;
+right: 2.03vw;
+    bottom: 150px;
+    width: 3.67vw;
+}
+button#tshirtcartbtnminus{
+position: absolute;
+bottom: 150px;
+width: 3.67vw;
+right: 20.39vw;
+}
+button#tshirtblack{
+    background-color: black;
+    height: 25px;
+    width: 1.95vw;
+    position: absolute;
+    bottom: 102px;
+    left: 42.18vw;
+    border-radius: 12px;
+}
+button#tshirtred{
+    background-color: red;
+    height: 25px;
+    width: 1.95vw;
+    position: absolute;
+    bottom: 102px;
+    left: 34.37vw;
+    border-radius: 12px;
+}
+button#tshirtblue{
+    background-color: blue;
+    height: 25px;
+    width: 1.95vw;
+    position: absolute;
+    bottom: 102px;
+    left: 26.56vw;
+    border-radius: 12px;
+}
+button#tshirtgolden{
+    background-color: gold;
+    height: 25px;
+    width: 1.95vw;
+    position: absolute;
+    left: 18.75vw;
+    bottom: 102px;
+    border-radius: 12px;
+}
+button#tshirtcoral{
+    background-color:coral;
+    height: 25px;
+    width: 1.95vw;
+    position: absolute;
+    left: 10.93vw;
+    bottom: 102px;
+    border-radius: 12px;
+}
+div#jacket{
+    height: 500px;
+    position: relative;
+}
+img#jacket1{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+    opacity: 1;
+}
+img#jacket2{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+    opacity: 0.7;
+}
+img#jacket3{
+    width: 39.06vw;
+    height: 354px;
+    position: absolute;
+    left: 8.04vw;  
+    opacity: 1;
+}
+button#jacket1btn{    
+    background-color: black;
+    height: 25px;
+    width: 1.95vw;
+    position: absolute;
+    bottom: 102px;
+    left: 13.90vw;
+    border-radius: 12px;
+}
+button#jacket2btn{
+    background-color: grey;
+    height: 25px;
+    width: 1.95vw;
+    position: absolute;
+    bottom: 102px;
+    left: 39.68vw;
+    border-radius: 12px;
+}
+button#jacket3btn{
+    background-color: saddlebrown;
+    height: 25px;
+    width: 1.95vw;
+    position: absolute;
+    bottom: 102px;
+    left: 26.95vw;
+    border-radius: 12px;
+}
+p#jacketinfo{
+    position: absolute;
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    font-size: 20px;
+    width: 39.06vw;
+    right: 1.71vw;
+    top: 0px;
+}
+button#jacketmorebtn{
+    position: absolute;
+    right: 21.87vw;
+    top: 270px;
+}
+p#jacketprice{
+    position: absolute;
+    margin: 0px;
+    color:rgb(0, 233, 222);
+    font-weight: bolder;
+    background: none;
+    border: 2px rgb(16, 233, 222) groove;
+    right: 31.48vw;
+    bottom: 150px;
+    font-size: 20px;
+}
+button#jacketcartbtn{
+    right: 6.71vw;
+    bottom: 150px;
+    position: absolute;
+    width: 12.5vw;
+    color: rgb(16, 233, 222);
+}
+button#jacketcartbtnplus{
+position: absolute;
+right: 2.03vw;
+    bottom: 150px;
+    width: 3.67vw;
+}
+button#jacketcartbtnminus{
+position: absolute;
+bottom: 150px;
+width: 3.67vw;
+right: 20.39vw;
+}
+@media only screen and (min-width: 1401px) and (max-width: 2000px){
+    button#tshirtred{
+        height: 38px;
+    width: 2vw;
+    border-radius: 35px;
+    }
+    button#tshirtblue{
+        height: 38px;
+    width: 2vw;
+    border-radius: 35px;
+    }
+    button#tshirtgolden{
+        height: 38px;
+    width: 2vw;
+    border-radius: 35px;
+    }
+    button#tshirtblack{
+        height: 38px;
+    width: 2vw;
+    border-radius: 35px;
+    }
+    button#tshirtcoral{
+        height: 38px;
+    width: 2vw;
+    border-radius: 35px;
+    }
+    button#jacket1btn{
+        height: 35px;
+    width: 2vw;
+    border-radius: 35px;
+    }
+    button#jacket2btn{
+        height: 35px;
+    width: 2vw;
+    border-radius: 35px;
+    }
+    button#jacket3btn{
+        height: 35px;
+    width: 2vw;
+    border-radius: 35px;
+    }
+}
+@media only screen and (min-width: 2001px){
+    div#floatimgcontainer{
+        height: 650px;
+    }
+    img#hoody1{
+        height: 610px;
+    }
+    img#hoody2{
+        height: 610px;
+    }
+    img#tshirt1{
+        height: 610px;
+    }
+    img#tshirt2{
+        height: 610px;
+    }
+    img#jacket{
+        height: 610px;
+    }
+    img#hat1{
+        height: 610px;
+    }
+    img#hat2{
+        height: 610px;
+    }
+    img#apolloshop{
+        height: 610px;
+    }
+    img#net_origin{
+        height: 610px;
+    }
+    div#apollo {
+        height: 596px;
+    }
+    img#apollotop {
+        height: 450px;
+    }
+    img#apolloside {
+        height: 450px;
+    }
+    img#apollobottom {
+        height: 450px;
+    }
+    button#apollotopbtn {
+        top: 420px;
+    }
+    button#apollosidebtn {
+        top: 420px;
+    }
+    button#apollobottombtn {
+        top: 420px;
+    }
+    p#apolloinfo{
+        font-size: 23px;
+    }
+    .button{
+        font-size: 21px;
+    }
+    .button1{
+        font-size: 21px;
+    }
+    p#apolloprice{
+        font-size: 22px;
+    }
+    div#net {
+        height: 596px;
+    }
+    img#nettop {
+        height: 450px;
+    }
+    img#netside {
+        height: 450px;
+    }
+    img#netbottom {
+        height: 450px;
+    }
+    button#nettopbtn {
+        top: 420px;
+    }
+    button#netsidebtn {
+        top: 420px;
+    }
+    button#netbottombtn {
+        top: 420px;
+    }
+    p#netinfo{
+        font-size: 23px;
+    }
+    .button{
+        font-size: 21px;
+    }
+    .button1{
+        font-size: 21px;
+    }
+    p#netprice{
+        font-size: 22px;
+    }
+    button#netmorebtn{
+        top: 335px;
+    }
+    div#tshirt{
+        height: 596px;
+    }
+    img#tshirtb1{
+        height: 450px;
+    }
+    img#tshirtb2{
+        height: 450px;
+    }
+    img#tshirt3{
+        height: 450px;
+    }
+    img#tshirt4{
+        height: 450px;
+    }
+    img#tshirt5{
+        height: 450px;
+    }
+    img#tshirt6{
+        height: 450px;
+    }
+    img#tshirt7{
+        height: 450px;
+    }
+    img#tshirt8{
+        height: 450px;
+    }
+    img#tshirt9{
+        height: 450px;
+    }
+    img#tshirt10{
+        height: 450px;
+    }
+    button#tshirttopbtn{
+        top: 418px;
+    }
+    button#tshirtbottombtn{
+        top: 418px;
+    }
+    button#tshirtred{
+        height: 44px;
+        bottom: 86px;
+    border-radius: 71px;
+    width: 1.85vw;
+    }
+    button#tshirtblue{
+        height: 44px;
+        bottom: 86px;
+    border-radius: 71px;
+    width: 1.85vw;
+    }
+    button#tshirtblack{
+        height: 44px;
+        bottom: 86px;
+    border-radius: 71px;
+    width: 1.85vw;
+    }
+    button#tshirtcoral{
+        height: 44px;
+        bottom: 86px;
+    border-radius: 71px;
+    width: 1.85vw;
+    }
+    button#tshirtgolden{
+        height: 44px;
+        bottom: 86px;
+    border-radius: 71px;
+    width: 1.85vw;
+    }
+    p#tshirtinfo{
+        font-size: 23px;
+    }
+    p#tshirtprice{
+        font-size: 22px;
+    }
+    div#jacket {
+        height: 596px;
+    }
+    img#jacket1{
+        height: 450px;
+    }
+    img#jacket2{
+        height: 450px;
+    }
+    img#jacket3{
+        height: 450px;
+    }
+    p#jacketinfo{
+        font-size: 23px;
+    }
+    p#jacketprice{
+        font-size: 22px;
+    }
+    button#jacket1btn{
+        height: 44px;
+        bottom: 93px;
+        border-radius: 43px;
+    }
+    button#jacket2btn{
+        height: 44px;
+        bottom: 93px;
+        border-radius: 43px;
+    }
+    button#jacket3btn{
+        height: 44px;
+        bottom: 93px;
+        border-radius: 43px;
+    }
+}
+@media only screen and (min-width: 1001px) and (max-width: 1400px){
+    p#apolloinfo{
+        top: 30px;
+    }
+    .button1{
+        font-size: 16px;
+    }
+    .button{
+        font-size: 18px;
+    }
+    p#jacketinfo{
+        top: -50px;
+    }
+}
+@media only screen and (min-width: 601px) and (max-width: 1000px){
+header{
+    height: 233px;
+}
+img#apollotop{
+    height: 320px;
+}
+img#apolloside{
+    height: 320px;
+}
+img#apollobottom{
+    height: 320px;
+}
+button#apollotopbtn{
+    top: 297px;
+}
+button#apollosidebtn{
+    top: 297px;
+}
+button#apollobottombtn{
+    top: 297px;
+}
+p#apolloinfo{
+    font-size: 16px;
+    top: 25px;
+}
+.button1{
+    font-size: 13px;
+    height: 29px;
+    width: 14.15vw;
+}
+.button1:hover{
+    font-size: 14px;
+    height: 30px;
+    width: 15.15vw;
+}
+p#apolloprice{
+    font-size: 16px;
+}
+button#apollocartbtn{
+    font-size: 13px;
+    right: 6.71vw;
+    width: 15.5vw;
+}
+.button{
+    height: 22px;
+    font-size: 14px;
+}
+.button:hover{
+    height: 24px;
+    font-size: 14px;
+}
+button#apollocartbtnminus{
+    right: 23.39vw;
+}
+button#apollobottombtn{
+    top: 297px;
+    width: 10.28vw;
+    left: 36.42vw;
+}
+img#nettop{
+    height: 320px;
+}
+img#netside{
+    height: 320px;
+}
+img#netbottom{
+    height: 320px;
+}
+p#netinfo{
+    font-size: 16px;
+}
+button#netcartbtn{
+    font-size: 13px;
+    right: 6.71vw;
+    width: 15.5vw;
+}
+button#netcartbtnminus{
+    right: 23.39vw;
+}
+button#nettopbtn{
+    top: 297px;
+}
+button#netsidebtn{
+    top: 297px;
+}
+button#netbottombtn{
+    top: 297px;
+}
+img#tshirtb1{
+    height: 320px;
+}
+img#tshirtb2{
+    height: 320px;
+}
+img#tshirt3{
+    height: 320px;
+}
+img#tshirt4{
+    height: 320px;
+}
+img#tshirt5{
+    height: 320px;
+}
+img#tshirt6{
+    height: 320px;
+}
+img#tshirt7{
+    height: 320px;
+}
+img#tshirt8{
+    height: 320px;
+}
+img#tshirt9{
+    height: 320px;
+}
+img#tshirt10{
+    height: 320px;
+}
+button#tshirttopbtn{
+    top: 298px;
+}
+button#tshirtbottombtn{
+    top: 298px;
+}
+button#tshirtred{
+    height: 28px;
+    width: 3.1vw;
+}
+button#tshirtcoral{
+    height: 28px;
+    width: 3.1vw;
+}
+button#tshirtblack{
+    height: 28px;
+    width: 3.1vw;
+}
+button#tshirtblue{
+    height: 28px;
+    width: 3.1vw;
+}
+button#tshirtgolden{
+    height: 28px;
+    width: 3.1vw;
+}
+p#tshirtinfo{
+    font-size:16px;
+}
+button#tshirtcartbtn {
+    right: 6.71vw;
+    font-size: 12px;
+    width: 14.5vw;
+}
+button#tshirtcartbtnminus{
+    right: 22.39vw;
+}
+img#jacket1{
+    height: 320px;
+}
+img#jacket2{
+    height: 320px;
+}
+img#jacket3{
+    height: 320px;
+}
+button#jacket1btn{
+    height: 27px;
+    width: 3vw;
+}
+button#jacket2btn{
+    height: 27px;
+    width: 3vw;
+}
+button#jacket3btn{
+    height: 27px;
+    width: 3vw;
+}
+p#jacketinfo{
+    font-size: 16px;
+}
+button#jacketcartbtn {
+    right: 6.71vw;
+    font-size: 12px;
+    width: 14.5vw;
+}
+button#jacketcartbtnminus{
+    right: 22.39vw;
+}
+}
+@media only screen and (max-width: 600px){
+header{
+    height: 233px;
+}
+div#floatimgcontainer{
+    height: 350px;
+}
+img#hoody1{
+    height: 310px;
+}
+img#hoody2{
+    height: 310px;
+}
+img#tshirt1{
+    height: 310px;
+}
+img#tshirt2{
+    height: 310px;
+}
+img#jacket{
+    height: 310px;
+}
+img#hat1{
+    height: 310px;
+}
+img#hat2{
+    height: 310px;
+}
+img#apolloshop{
+    height: 310px;
+}
+img#net_origin{
+    height: 310px;
+}
+div#apollo {
+    height: 400px;
+}
+img#apollotop {
+    width: 41.06vw;
+    height: 250px;
+    left: 6.04vw;
+}
+img#apolloside {
+    width: 41.06vw;
+    height: 250px;
+    left: 6.04vw;
+}
+img#apollobottom {
+    width: 41.06vw;
+    height: 250px;
+    left: 6.04vw;
+}
+.button{
+    height: 15px;
+    width: 11.28vw;
+    font-size: 8px;
+}
+.button:hover{
+    height: 16px;
+    width: 12.28vw;
+    font-size: 9px;
+}
+button#apollotopbtn{
+    left: 6.04vw;
+    top: 235px;
+}
+button#apollosidebtn{
+    left: 20.65vw;
+    top: 235px;
+}
+button#apollobottombtn{
+    left: 35.42vw;
+    top: 235px;
+}
+p#apolloinfo{
+    top: 16px;
+    font-size: 10px;
+}
+.button1{
+    height: 20px;
+    font-size: 7px;
+    width: 15.15vw;
+}
+.button1:hover{
+    height: 21px;
+    font-size: 8px;
+    width: 16.15vw;
+}
+button#apollomorebtn{
+    right: 15.87vw;
+    top: 197px;
+}
+button#apollocartbtn{
+    right: 5.71vw;
+    width: 16.5vw;
+    font-size: 6px;
+}
+button#apollocartbtnplus{
+    right: 1.03vw;
+}
+button#apollocartbtnminus{
+    right: 23.39vw;
+}
+p#apolloprice{
+    right: 30.48vw;
+    font-size: 9px;
+}
+div#net {
+    height: 400px;
+}
+img#nettop {
+    width: 41.06vw;
+    height: 250px;
+    left: 6.04vw;
+}
+img#netside {
+    width: 41.06vw;
+    height: 250px;
+    left: 6.04vw;
+}
+img#netbottom {
+    width: 41.06vw;
+    height: 250px;
+    left: 6.04vw;
+}
+button#nettopbtn{
+    left: 6.04vw;
+    top: 234px;
+}
+button#netsidebtn{
+    top: 234px;
+    left: 20.65vw;
+}
+button#netbottombtn{
+    top: 234px;
+    left: 35.42vw;
+}
+p#netinfo{
+    font-size: 10px;
+    top: 24px;
+}
+button#netmorebtn{
+    top: 190px;
+}
+p#netprice{
+    font-size: 9px;
+    bottom: 150px;
+}
+button#netcartbtn{
+    right: 5.71vw;
+    width: 16.5vw;
+    font-size: 6px;
+}
+button#netcartbtnplus{
+    right: 1.03vw;
+}
+button#netcartbtnminus{
+    right: 23.39vw;
+}
+div#tshirt {
+    height: 400px;
+}
+img#tshirtb1{
+    height: 250px;
+}
+img#tshirtb2{
+    height: 250px;
+}
+img#tshirt3{
+    height: 250px;
+}
+img#tshirt4{
+    height: 250px;
+}
+img#tshirt5{
+    height: 250px;
+}
+img#tshirt6{
+    height: 250px;
+}
+img#tshirt7{
+    height: 250px;
+}
+img#tshirt8{
+    height: 250px;
+}
+img#tshirt9{
+    height: 250px;
+}
+img#tshirt10{
+    height: 250px;
+}
+button#tshirttopbtn{
+    top: 235px;
+}
+button#tshirtbottombtn{
+    top: 235px;
+    left: 35.42vw;
+}
+button#tshirtred{
+    height: 18px;
+    width: 3.45vw;
+    bottom: 113px;
+}
+button#tshirtblue{
+    height: 18px;
+    width: 3.45vw;
+    bottom: 113px;
+}
+button#tshirtcoral{
+    height: 18px;
+    width: 3.45vw;
+    bottom: 113px;
+}
+button#tshirtblack{
+    height: 18px;
+    width: 3.45vw;
+    bottom: 113px;
+}
+button#tshirtgolden{
+    height: 18px;
+    width: 3.45vw;
+    bottom: 113px;
+}
+p#tshirtinfo{
+    font-size: 10px;
+}
+p#tshirtprice{
+    font-size: 8px;
+}
+button#tshirtcartbtn{
+    right: 5.71vw;
+    width: 16.5vw;
+    font-size: 6px;
+}
+button#tshirtcartbtnplus{
+    right: 1.03vw;
+}
+button#tshirtcartbtnminus{
+    right: 23.39vw;
+}
+div#jacket{
+    height: 400px;
+}
+img#jacket1{
+    height: 250px;
+}
+img#jacket2{
+    height: 250px;
+}
+img#jacket3{
+    height: 250px;
+}
+button#jacket1btn{
+    height: 20px;
+    width: 3.45vw;
+}
+button#jacket2btn{
+    height: 20px;
+    width: 3.45vw;
+}
+button#jacket3btn{
+    height: 20px;
+    width: 3.45vw;
+}
+p#jacketinfo{
+    font-size: 10px;
+    top: -20px;
+}
+p#jacketprice{
+    font-size: 9px;
+}
+button#jacketcartbtn{
+    right: 5.71vw;
+    width: 16.5vw;
+    font-size: 6px;
+}
+button#jacketcartbtnplus{
+    right: 1.03vw;
+}
+button#jacketcartbtnminus{
+    right: 23.39vw;
+}
+}

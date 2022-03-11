@@ -1,0 +1,655 @@
+div#floatimgcontainer{
+      width: 97.42vw;
+    height: 779px;
+    margin: auto;
+    position: relative;
+    bottom: 100px;
+    z-index: -1;
+}
+img#blackeye3{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#martion1{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#blackeye4{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#blackeye5{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#blackeye6{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#martion2{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#martion3{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#martion4{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+img#blackeye7{
+      width: 97.42vw;
+    height: 779px;
+    opacity: 0.8;
+    display: none;
+}
+div#countablediv{
+    height: 150px;
+    position: relative;
+}
+p#availabelproj{
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    color:rgb(16, 233, 222);
+    font-weight: bold;
+    font-family: sans-serif,'Times New Roman',georgia;
+    left: 7.03vw;
+    font-size: 35px;
+    display: none;
+}
+p#processproj{
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    color:rgb(16, 233, 222);
+    font-weight: bold;
+    font-family: sans-serif,'Times New Roman',georgia;
+    left: 42.89vw;
+    font-size: 35px;
+    display: none;
+}
+p#upcomingproj{
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    color:rgb(16, 233, 222);
+    font-weight: bold;
+    font-family: sans-serif,'Times New Roman',georgia;
+    left: 76.79vw;
+    font-size: 35px;
+    display: none;
+}
+.abc{
+    animation-name: size;
+    animation-duration: 1.7s;
+}
+@keyframes size{
+    0% {
+        display: block;
+        transform: translateY(60px);
+    }
+    100% {
+        display: none;
+        transform: translateY(0px);
+    }
+}
+p#availabelcount{
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    color:rgb(16, 233, 222);
+    font-weight: bold;
+    font-family: sans-serif,'Times New Roman',georgia;
+    left: 13.04vw;
+    font-size: 50px;
+    display: none;
+    top: 112px;
+}
+p#processcount{
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    color:rgb(16, 233, 222);
+    font-weight: bold;
+    font-family: sans-serif,'Times New Roman',georgia;
+    left: 49.84vw;
+    font-size: 50px;
+    display: none;
+    top: 112px;
+}
+p#upcomingcount{
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    color:rgb(16, 233, 222);
+    font-weight: bold;
+    font-family: sans-serif,'Times New Roman',georgia;
+    left: 83.20vw;
+    font-size: 50px;
+    display: none;
+    top: 112px;
+}
+div.projects1{
+    height: 480px;
+    width: 97.42vw;
+    position: relative;
+    margin-top: 150px;
+}
+img#project1img{
+    height: 400px;
+    width: 42.96vw;
+    position: absolute;
+    top: 23px;
+    left: 3.90vw;
+}
+p#project1para{
+    color: rgb(205 245 245);
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    left: 53.90vw;
+    top: 74px;
+    width: 42.96vw;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+}
+button#readproject1{
+    left: 60.15vw;
+    top: 369px;
+}
+.button{
+    position: absolute;
+    height: 37px;
+    color: rgb(205 245 245);
+    font-size: 19px;
+    background: none;
+    border: 2px rgb(16, 233, 222) groove;
+    padding: 0px;
+    width: 9.68vw;
+    margin: 0px;
+    transition-duration: 0.5s;
+}
+.button:hover{
+    box-shadow: 0px 0px 7px 5px rgb(77 241 200 / 50%) inset;
+    font-size: 22px;
+    width: 10.93vw;
+    height: 45px;
+}
+div.projects2{
+    height: 480px;
+    width: 97.42vw;
+    position: relative;
+}
+img#project2img{
+    height: 400px;
+    width: 42.96vw;
+    position: absolute;
+    top: 23px;
+    right: 3.51vw;
+}
+p#project2para{
+    color: rgb(205 245 245);
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: sans-serif,'Times New Roman',georgia;
+    position: absolute;
+    left: 10.31vw;
+    width: 42.96vw;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+    top: 66px;
+}
+button#readproject2{
+    left: 18.35vw;
+    top: 369px;
+}
+.anmprojimg1{
+ animation-name: anmprojectimg1;
+ animation-duration: 2.8s;
+}
+@keyframes anmprojectimg1{
+    0%{
+      display: block;
+      opacity: 0;
+      transform: translateX(-40px);
+    }
+    100%{
+        opacity: 1;
+      display: none;
+      transform: translateX(0px);
+    }
+}
+.anmprojimg2{
+    animation-name: anmprojectimg2;
+ animation-duration: 2.8s;
+}
+@keyframes anmprojectimg2{
+    0%{
+      display: block;
+      opacity: 0;
+      transform: translateX(40px);
+    }
+    100%{
+        opacity: 1;
+      display: none;
+      transform: translateX(0px);
+    }
+}
+.anmprojpara1{
+    animation-name: anmprojectpara1;
+    animation-duration: 2.8s;
+   }
+   @keyframes anmprojectpara1{
+       0%{
+         display: block;
+         transform: translateX(100px);
+       }
+       100%{
+         display: none;
+         transform: translateX(0px);
+       }
+   }
+   .anmprojpara2{
+    animation-name: anmprojectpara2;
+    animation-duration: 2.8s;
+   }
+   @keyframes anmprojectpara2{
+       0%{
+         display: block;
+         transform: translateX(-100px);
+       }
+       100%{
+         display: none;
+         transform: translateX(0px);
+       }
+   }
+   .anchor{
+    color: rgb(16, 233, 222);
+    text-decoration: none;
+}
+@media only screen and (min-width:1281px) and (max-width:1400px){
+    p#project2para{
+        left: 8.31vw;
+    }
+}
+@media only screen and (min-width:1601px) and (max-width:2000px){
+    p#project1para{
+        font-size: 21px;
+        top: 34px;
+    }
+    button#readproject1{
+        top: 370px;
+    }
+    p#project2para{
+        font-size: 21px;
+        left: 9.31vw;
+        top: 23px;
+    }
+    button#readproject2{
+        top: 384px;
+    }
+    p#processproj{
+       left: 44.89vw;
+    }
+    p#upcomingproj{
+       left: 78.79vw;
+    }
+    p#availabelcount{
+        left: 11.14vw;
+    }
+    p#processcount{
+        left: 49.34vw;
+    }
+    p#upcomingcount{
+        left: 83.50vw;
+    }
+    button#readproject2{
+        top: 410px;
+    }
+}
+@media only screen and (min-width:2001px){
+    p#availabelcount{
+        left: 10.65vw;
+    }
+    p#processcount{
+        left: 49.8vw
+    }
+    p#upcomingcount{
+        left: 83.52vw;
+    }
+    p#processproj{
+        left: 45.89vw;
+     }
+     p#upcomingproj{
+        left: 79.79vw;
+     }
+     div.projects1{
+        height: 590px;
+     }
+     div.projects2{
+        height: 590px;
+     }
+    img#project1img{
+        height: 500px;
+    top: -18px;
+    }
+    p#project1para{
+        font-size: 23px;
+        top: 0px;
+    }
+    button#readproject1{
+        left: 61.15vw;
+    top: 383px;
+    }
+    .button{
+        height: 40px;
+        font-size: 22px;
+    }
+    .button:hover{
+        height: 45px;
+        font-size: 23px;
+        width: 10.68vw;
+    }
+    img#project2img{
+        height: 500px;
+    width: 42.96vw;
+    top: -10px;
+    }
+    p#project2para{
+        font-size: 23px;
+        left: 9.34vw;
+        top: 0px;
+    }
+    button#readproject2 {
+        left: 18.35vw;
+        top: 410px;
+    }
+}
+@media only screen and (min-width:1001px) and (max-width:1280px){
+    div#floatimgcontainer{
+        height: 675px;
+    }
+    img#martion1{
+        height: 675px;
+    }
+    img#blackeye3{
+        height: 675px;
+    }
+    img#martion2{
+        height: 675px;
+    }
+    img#martion3{
+        height: 675px;
+    }
+    img#martion4{
+        height: 675px;
+    }
+    img#blackeye4{
+        height: 675px;
+    }
+    img#blackeye5{
+        height: 675px;
+    }
+    img#blackeye6{
+        height: 675px;
+    }
+    img#blackeye7{
+        height: 675px;
+    }
+    p#availabelproj{
+        font-size: 32px;
+    }
+    p#processproj{
+       font-size: 32px;
+    }
+    p#upcomingproj{
+       font-size: 32px;
+    }
+    p#availabelcount{
+     font-size: 40px;
+    }
+    p#processcount{
+     font-size: 40px;
+    }
+    p#upcomingcount{
+     font-size: 40px;
+    }
+    p#project1para{
+        top: 37px;
+    }
+    p#project2para{
+        top: 36px;
+    }
+    button#readproject1 {
+        left: 60.15vw;
+        top: 369px;
+    }
+    .button{
+        font-size: 18px;
+    }
+    .button:hover{
+        font-size: 19px;
+        width: 10.68vw;
+    }
+    button#readproject2 {
+        left: 18.35vw;
+        top: 369px;
+    }
+}
+@media only screen and (min-width: 601px) and (max-width: 1000px){
+    header {
+        height: 233px;
+    }
+    div#floatimgcontainer{
+        height: 600px;
+    }
+    img#martion1{
+        height: 600px;
+    }
+    img#blackeye3{
+        height: 600px;
+    }
+    img#martion2{
+        height: 600px;
+    }
+    img#martion3{
+        height: 600px;
+    }
+    img#martion4{
+        height: 600px;
+    }
+    img#blackeye4{
+        height: 600px;
+    }
+    img#blackeye5{
+        height: 600px;
+    }
+    img#blackeye6{
+        height: 600px;
+    }
+    img#blackeye7{
+        height: 600px;
+    }
+    p#availabelproj{
+        font-size: 28px;
+        left: 5vw;
+    }
+    p#processproj{
+       font-size: 28px;
+       left: 40vw;
+    }
+    p#upcomingproj{
+       font-size: 28px;
+       left: 73vw
+    }
+    p#availabelcount{
+     font-size: 36px;
+     left: 12.9vw;
+    }
+    p#processcount{
+     font-size: 36px;
+     left: 48.84vw;
+    }
+    p#upcomingcount{
+     font-size: 36px;
+     left: 81.2vw;
+    }
+    img#project1img{
+        width: 44.96vw;
+    }
+    p#project1para{
+        font-size: 16px;
+        top: 14px;
+    }
+    button#readproject1 {
+        left: 60.15vw;
+        top: 369px;
+    }
+    .button{
+        height: 33px;
+    font-size: 12px;
+    width: 10.68vw;
+    }
+    .button:hover{
+        height: 35px;
+        font-size: 13px;
+        width: 11.68vw;
+    }
+    img#project2img{
+        width: 44.96vw;
+    }
+    p#project2para{
+        font-size: 16px;
+        left: 8.34vw;
+        top: 28px;
+    }
+    button#readproject2 {
+        left: 18.35vw;
+        top: 378px;
+    }
+}
+@media only screen and (max-width: 600px){
+    header {
+        height: 233px;
+    }
+    div#floatimgcontainer{
+        height: 480px;
+    }
+    img#martion1{
+        height: 480px;
+    }
+    img#blackeye3{
+        height: 480px;
+    }
+    img#martion2{
+        height: 480px;
+    }
+    img#martion3{
+        height: 480px;
+    }
+    img#martion4{
+        height: 480px;
+    }
+    img#blackeye4{
+        height: 480px;
+    }
+    img#blackeye5{
+        height: 480px;
+    }
+    img#blackeye6{
+        height: 480px;
+    }
+    img#blackeye7{
+        height: 480px;
+    }
+    p#availabelproj{
+        left: 7.03vw;
+    font-size: 15px;
+    }
+    p#processproj{
+        left: 42.89vw;
+    font-size: 15px;
+    }
+    p#upcomingproj{
+        left: 76.79vw;
+        font-size: 15px;
+    }
+    p#availabelcount{
+        font-size: 22px;
+     top: 90px;
+    }
+    p#processcount{
+        font-size: 22px;
+     top: 90px;
+    }
+    p#upcomingcount{
+     font-size: 22px;
+     top: 90px;
+    }
+    div.projects1{
+        margin-top: 60px;
+        height: 337px;
+    }
+    img#project1img{
+        height: 277px;
+    width: 46.96vw;
+    }
+    p#project1para{
+        font-size: 11px;
+        left: 53.9vw;
+    top: 4px;
+    width: 42.96vw;
+    }
+    button#readproject1 {
+        left: 60.15vw;
+        top: 281px;
+    }
+    .button{
+        height: 21px;
+    font-size: 9px;
+    width: 17.68vw;
+    }
+    .button:hover{
+        height: 23px;
+        font-size: 10px;
+        width: 18.68vw;
+    }
+    div.projects2{
+        height: 337px;
+    }
+    img#project2img{
+        height: 277px;
+    width: 46.96vw;
+    }
+    p#project2para{
+        font-size: 11px;
+        left: 5.34vw;
+    width: 42.96vw;
+    top: 12px;
+    }
+    button#readproject2 {
+        left: 12.35vw;
+        top: 287px;
+    }
+}

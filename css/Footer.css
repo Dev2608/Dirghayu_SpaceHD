@@ -1,0 +1,83 @@
+footer{
+    height: 160px;
+    background: rgb(1 4 20);
+    box-shadow: 0px -10px 20px 3px rgb(77 241 200);
+    margin-top: 49px;
+}
+div#companyfooter{
+    height: 83px;
+    position: relative;
+}
+p#companyfooterpara{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    padding-left: 448px;
+    left: 81px;
+    top: 20px;
+    color: rgb(16, 233, 222);
+    font-size: 50px;
+    font-style: italic;
+    font-family: 'Times New Roman',sans-serif,georgia;
+    width: 1070px;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+div#contentfooter{
+    position: relative;
+    top: 89px;
+    height: 71px;
+}
+div.content{
+    position: absolute;
+    color: rgb(16, 233, 222);
+    font-style: italic;
+    font-family: 'Times New Roman',serif,georgia;
+    font-size: 21px;
+    font-weight: bold;
+    box-sizing: border-box;
+    padding-top: 13px;
+    height: 50px;
+    top: 8px;
+}
+div#faq{
+    width: 155px;
+    left: 475px;
+    padding-left: 46px;
+}
+div#privacy{
+    width: 155px;
+    padding-left: 27px;
+    left: 638px;
+}
+div#term{
+    width: 250px;
+    padding-left: 14px;
+    left: 217px;
+}
+div#contactus{
+    width: 164px;
+    left: 46px;
+    padding-left: 18px;
+}
+div#followus{
+    width: 170px;
+    left: 1037px;
+    padding-left: 25px;
+}
+div#help{
+    width: 227px;
+    left: 802px;
+    padding-left: 28px;
+}
+div.content:hover{
+    box-shadow: 0px 0px 7px 5px rgb(77 241 200 / 50%) inset;
+    border-radius: 10px;
+}
+p#companyfooterpara:hover{
+    box-shadow: 0px 0px 7px 5px rgb(77 241 200 / 50%) inset;
+    border-radius: 10px;
+}
+div.content a{
+    color: rgb(16, 233, 222);
+}
